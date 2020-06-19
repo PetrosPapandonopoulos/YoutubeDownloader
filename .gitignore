@@ -1,0 +1,9 @@
+.idea
+build
+output
+venv
+__pycache__/
+mainwindow.ui
+ffmpeg.exe
+ffplay.exe
+ffprobe.exe

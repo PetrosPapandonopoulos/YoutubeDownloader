@@ -237,7 +237,6 @@ class Ui_MainWindow(object):
                         'quit': True,
                         'postprocessors': [{
                             'key': 'FFmpegExtractAudio',
-                            'noconsole': True,
                             'preferredcodec': 'mp3',
                             'preferredquality': '192'},
                             {'key': 'EmbedThumbnail'}]

@@ -15,3 +15,6 @@ If you need help installing FFmpeg on windows, see this tutorial
 
 ### Installation
 run command `pip install -r requirements.txt`
+
+### Screenshot
+![Main GUI](Screenshot/Main%20GUI.png)
